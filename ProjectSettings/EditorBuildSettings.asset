@@ -6,11 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LevelbuildTest.unity
+    guid: 81dc404851efe714bb005c0df203bcb8
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/anthony.unity
     guid: b44e4e27fcfe0ab4da1d86ec0fc690da
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 5ba93b57f3607b44c85412094149ed68
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 88a774e4071e00f43a0b68c3bae47051
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
